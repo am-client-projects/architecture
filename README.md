@@ -1,0 +1,24 @@
+# architecture
+
+- SaaS
+    - Segregation
+    - Metering
+    - Tiering
+- Microservices
+- Monorepo
+- Web App
+    - CDN
+    - Cloudflare
+- Security
+    - Authentication
+    - Authorization/RBAC
+    - CSRF
+    - DDOS
+- Logging and Observability
+    - Opentelemetry
+- User Management and Data Privacy
+    - GDPR
+    - User Onboarding and Offboarding
+    - KYC
+    - Credential Recovery
+- AI
