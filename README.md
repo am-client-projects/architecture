@@ -4,7 +4,9 @@
 - Microservices
 - Monorepo
 - Web App
+    - Deployment
     - CDN
+    - Domain
     - Cloudflare
 - Security
     - Authentication
@@ -14,9 +16,11 @@
 - Logging and Observability
     - Opentelemetry
 - User Management and Data Privacy
-    - GDPR
-    - User Onboarding and Offboarding
     - KYC
+    - GDPR
+        - Data portability
+        - Right to be forgotten
+    - User Onboarding and Offboarding
     - Credential Recovery
  
 ## Specific
@@ -25,5 +29,11 @@
     - Metering
     - Tiering
 - Secure and Private AI (Chat, QnA, Summarization, Assistants, RAG, Workflows, Agents)
+      - Server Sent Events (SSE)
+      - Streaming
 - Dating App
-- Marketplace App 
+- Marketplace App
+      - Billing (integrate a bank account) (plaid)
+      - Payment Processing (get paid) (stripe)
+      - Tax and Accounting
+- Chatting App (websockets)
