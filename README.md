@@ -1,4 +1,4 @@
-# architecture
+# Architecture
 
 ## General
 - Microservices
