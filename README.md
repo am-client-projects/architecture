@@ -3,6 +3,10 @@
 ## General
 - Microservices
 - Monorepo
+    - Dev Tools (linting, formatting, prettier)
+    - Build Tools 
+    - Containerization (Docker, Podman)
+    - CI/CD
 - Infra as Code (IaC)
     - VPC
     - Firewall
