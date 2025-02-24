@@ -1,9 +1,6 @@
 # architecture
 
-- SaaS
-    - Segregation
-    - Metering
-    - Tiering
+## General
 - Microservices
 - Monorepo
 - Web App
@@ -21,4 +18,12 @@
     - User Onboarding and Offboarding
     - KYC
     - Credential Recovery
-- AI
+ 
+## Specific
+- SaaS
+    - Segregation
+    - Metering
+    - Tiering
+- Secure and Private AI (Chat, QnA, Summarization, Assistants, RAG, Workflows, Agents)
+- Dating App
+- Marketplace App 
