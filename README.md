@@ -3,6 +3,13 @@
 ## General
 - Microservices
 - Monorepo
+- Infra as Code (IaC)
+    - VPC
+    - Firewall
+    - Static Site
+    - Routing
+    - Load Balancer
+    - Pulumi
 - Web App
     - Deployment
     - CDN
