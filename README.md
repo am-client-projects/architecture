@@ -57,3 +57,8 @@
       - Push Api
       - Service Workers
       - Server Sent Events (SSE)
+- Event Driven Architecture
+    - Microservice + Pub/Sub IPC System
+    - Orchestrator
+    - Saga Pattern
+        - Roll-back vs Roll-forward (corrective transactions)
