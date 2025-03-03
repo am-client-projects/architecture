@@ -40,8 +40,8 @@
     - Metering
     - Tiering
 - Secure and Private AI (Chat, QnA, Summarization, Assistants, RAG, Workflows, Agents)
-      - Server Sent Events (SSE)
-      - Streaming
+    - Server Sent Events (SSE)
+    - Streaming
 - Dating App (social network/graphs)
 - Chatting App (websockets)
 - Marketplace App
@@ -54,13 +54,11 @@
     - Hasing and Salting of Password
     - Password Recovery
 - Notification System
-  
-      - Push Api
-      - Service Workers
-      - Server Sent Events (SSE)
-      - Push Services (https://github.com/pushpad/known-push-services/blob/master/whitelist)
+    - Push Api
+    - Service Workers
+    - Server Sent Events (SSE)
+    - Push Services (https://github.com/pushpad/known-push-services/blob/master/whitelist)
 - Event Driven Architecture
-  
     - Microservice + Pub/Sub IPC System
     - Orchestrator
     - Saga Pattern
