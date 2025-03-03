@@ -45,19 +45,24 @@
 - Dating App (social network/graphs)
 - Chatting App (websockets)
 - Marketplace App
+  
       - Billing (integrate a bank account) (plaid)
       - Payment Processing (get paid) (stripe)
       - Tax and Accounting
 - Auth System
+  
       - Sign-up (JWT issuances)
       - Sign-in (JWT verification/Authentication)
       - Hasing and Salting of Password
       - Password Recovery
 - Notification System
+  
       - Push Api
       - Service Workers
       - Server Sent Events (SSE)
+      - Push Services (https://github.com/pushpad/known-push-services/blob/master/whitelist)
 - Event Driven Architecture
+  
     - Microservice + Pub/Sub IPC System
     - Orchestrator
     - Saga Pattern
