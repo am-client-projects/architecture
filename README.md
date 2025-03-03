@@ -45,15 +45,14 @@
 - Dating App (social network/graphs)
 - Chatting App (websockets)
 - Marketplace App
-  
-      - Billing (integrate a bank account) (plaid)
-      - Payment Processing (get paid) (stripe)
-      - Tax and Accounting
-- Auth System  
-      - Sign-up (JWT issuances)
-      - Sign-in (JWT verification/Authentication)
-      - Hasing and Salting of Password
-      - Password Recovery
+    - Billing (integrate a bank account) (plaid)
+    - Payment Processing (get paid) (stripe)
+    - Tax and Accounting
+- Auth System
+    - Sign-up (JWT issuances)
+    - Sign-in (JWT verification/Authentication)
+    - Hasing and Salting of Password
+    - Password Recovery
 - Notification System
   
       - Push Api
