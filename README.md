@@ -42,9 +42,13 @@
 - Secure and Private AI (Chat, QnA, Summarization, Assistants, RAG, Workflows, Agents)
       - Server Sent Events (SSE)
       - Streaming
-- Dating App
+- Dating App (social network/graphs)
+- Chatting App (websockets)
 - Marketplace App
       - Billing (integrate a bank account) (plaid)
       - Payment Processing (get paid) (stripe)
       - Tax and Accounting
-- Chatting App (websockets)
+- Notification System
+      - Push Api
+      - Service Workers
+      - Server Sent Events (SSE)
