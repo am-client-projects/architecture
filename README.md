@@ -62,3 +62,5 @@
     - Orchestrator
     - Saga Pattern
         - Roll-back vs Roll-forward (corrective transactions)
+    - Event Sourcing
+    - CQRS
