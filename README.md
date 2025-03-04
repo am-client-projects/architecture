@@ -58,10 +58,11 @@
     - Service Workers
     - Server Sent Events (SSE)
     - Push Services (https://github.com/pushpad/known-push-services/blob/master/whitelist)
-- Event Driven Architecture
+- Event Driven Architecture (ipc)
+    - cdc ?
     - Microservice + Pub/Sub IPC System
     - Orchestrator
     - Saga Pattern
         - Roll-back vs Roll-forward (corrective transactions)
-    - Event Sourcing
+- Event Sourcing ( Data persistence and source of truth)
     - CQRS
